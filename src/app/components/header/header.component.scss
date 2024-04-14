@@ -1,0 +1,12 @@
+:host {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px;
+  height: 50px;
+  box-shadow: 0 2px 14px 0 rgba(0, 0, 0, 0.5);
+}
+
+.menu-icon {
+  font-size: 36px;
+}
